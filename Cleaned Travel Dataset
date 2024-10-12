@@ -18,7 +18,7 @@
 16,Ana,Hester, CA,San Diego,2018-07-02,2018-07-07,2101.76,Conference
 17,Andrea,Hennesy, MD,Ocean City,2019-10-01,2019-10-04,348.51,Conference
 18,Andrew,Bock, NV,Las Vegas,2016-03-01,2016-03-04,1369.4,Conference
-19,Angela,Wiley-Jones, MD,Ocean City,2015-10-04,2015-10-07,750.65,Conference
+19,Angela,WileyJones, MD,Ocean City,2015-10-04,2015-10-07,750.65,Conference
 20,Anne,Denicoff, GA,Atlanta,2016-12-05,2016-12-08,1014.6,Conference
 21,Anthony,Ramirez, FL,Orlando,2019-08-21,2019-08-24,586.08,Conference
 22,Ashley,Robinson, CA,San Diego,2018-01-11,2018-01-13,1372.12,Conference
@@ -37,7 +37,7 @@
 35,Bill,Mcquiggan, NV,Las Vegas,2017-03-26,2017-03-31,2612.28,Other
 36,Bill,Powell, MD,Ocean City,2019-03-25,2019-03-26,78.0,Conference
 37,Billy,Usilton, MD,Ocean City,2017-10-18,2017-10-20,277.07,Conference
-38,Biodun,Ayo-Durojaiye, FL,Orlando,2016-04-08,2016-04-14,3733.3,Conference
+38,Biodun,AyoDurojaiye, FL,Orlando,2016-04-08,2016-04-14,3733.3,Conference
 39,Brandon,Patrick, MD,Ocean City,2018-03-19,2018-03-20,116.0,Conference
 40,Brandon,Pellecchia, MD,Ocean City,2019-03-25,2019-03-26,78.0,Conference
 41,Brian,Copley, MD,Ocean City,2018-09-19,2018-09-21,795.35,Conference
@@ -69,7 +69,7 @@
 67,Cody,Fields, MD,Ocean City,2015-11-16,2015-11-19,586.0,Conference
 68,Craig,Cupaiuolo, FL,Orlando,2017-01-13,2017-01-15,501.86,Other
 69,Dan,Berkman, MD,Ocean City,2016-05-31,2016-06-02,503.23,Conference
-70,Dan,Dunn-Sod, NC,Charlotte,2019-05-05,2019-05-09,1496.0,Training
+70,Dan,DunnSod, NC,Charlotte,2019-05-05,2019-05-09,1496.0,Training
 71,Dan,Gunn, CO,Aurora,2019-09-29,2019-10-03,1525.76,Conference
 72,Dana,Stroman, NV,Las Vegas,2019-06-16,2019-06-19,1619.66,Conference
 73,Dana,Williams, GA,Atlanta,2017-09-18,2017-09-21,1266.43,Conference
@@ -151,7 +151,7 @@
 149,Heather,Johnson, CA,San Diego,2019-04-29,2019-05-03,200.5,Conference
 150,Hengxin,Chin, MD,Ocean City,2017-10-29,2017-11-02,312.44,Training
 151,Iacoviello,Ian, GA,Atlanta,2018-04-01,2018-04-05,1949.49,Conference
-152,Ives-Didier,N'Kodia, MD,Ocean City,2016-10-24,2016-10-26,82.5,Conference
+152,IvesDidier,N'Kodia, MD,Ocean City,2016-10-24,2016-10-26,82.5,Conference
 153,Thomas,Manger, MD,Ocean City,2015-09-13,2015-09-16,275.0,Conference
 154,Jacqueline,Earp, MD,Ocean City,2019-09-25,2019-09-27,688.02,Conference
 155,James,Brown, FL,Orlando,2018-10-03,2018-10-09,3499.4,Conference
@@ -194,7 +194,7 @@
 192,John,Foster, NV,Las Vegas,2018-11-11,2018-11-16,1913.86,Conference
 193,John,Freeburger, FL,Orlando,2018-03-04,2018-03-10,4626.29,Conference
 194,John,Kinsley, NC,Charlotte,2017-07-25,2017-07-29,2249.4,Conference
-195,John,O'Brien, MD,Ocean City,2019-03-25,2019-03-26,78.0,Conference
+195,John,OBrien, MD,Ocean City,2019-03-25,2019-03-26,78.0,Conference
 196,Jon,Hutchings, MD,Ocean City,2019-09-25,2019-09-27,424.08,Conference
 197,Jonathan,Heiderich, FL,Orlando,2019-08-20,2019-08-24,1880.94,Conference
 198,Jordan,Satinsky, FL,Orlando,2015-09-28,2015-10-01,969.8,Conference
@@ -207,7 +207,7 @@
 205,Joshua,Hart, CA,Los Angeles,2019-10-06,2019-10-13,2057.39,Training
 206,Joy,Nurmi, MD,Ocean City,2015-08-12,2015-08-15,1312.86,Conference
 207,Joy,Patil, MD,Ocean City,2018-05-16,2018-05-18,486.55,Other
-208,Jr.,Enos, GA,Atlanta,2015-09-27,2015-10-01,1853.25,Conference
+208,Jr,Enos, GA,Atlanta,2015-09-27,2015-10-01,1853.25,Conference
 209,Julia,Dyer, MD,Ocean City,2017-11-06,2017-11-09,578.88,Conference
 210,Julia,Gilroy, CA,San Diego,2016-01-24,2016-01-29,1997.0,Conference
 211,Kamran,Farooq, MD,Ocean City,2019-09-25,2019-09-27,822.75,Conference
@@ -267,7 +267,7 @@
 265,Mel,Williams, MD,Ocean City,2019-06-23,2019-06-25,339.02,Conference
 266,Marjorie,Roher, MD,Ocean City,2017-06-07,2017-06-08,443.23,Conference
 267,Marjorie,Williams, NV,Las Vegas,2017-06-04,2017-06-07,2141.13,Conference
-268,Magg,Williams-Doria, MD,Ocean City,2018-10-24,2018-10-26,658.08,Conference
+268,Magg,WilliamsDoria, MD,Ocean City,2018-10-24,2018-10-26,658.08,Conference
 269,Mark,Poole, MD,Ocean City,2019-03-25,2019-03-26,78.0,Conference
 270,Mark,Sheelor, MD,Ocean City,2019-03-25,2019-03-26,78.0,Conference
 271,Mark,Blackburn, MD,Ocean City,2017-10-18,2017-10-20,277.07,Conference
@@ -276,7 +276,7 @@
 274,Mark,Sheelor, NV,Las Vegas,2017-03-06,2017-03-08,1411.34,Not provided
 275,Mark,Williford, NV,Las Vegas,2016-01-18,2016-01-23,2059.95,Conference
 276,Mary,Casciotti, MD,Ocean City,2016-06-22,2016-06-24,873.22,Conference
-277,Mary,Moltrup-Evans, MD,Ocean City,2018-10-17,2018-10-19,348.02,Conference
+277,Mary,MoltrupEvans, MD,Ocean City,2018-10-17,2018-10-19,348.02,Conference
 278,Matthew,Lynch, NC,Charlotte,2017-06-04,2017-06-08,77.44,Conference
 279,Matthew,Stycos, MD,Ocean City,2015-11-16,2015-11-19,610.9,Conference
 280,Matthias,Miziorko, MD,Ocean City,2017-05-30,2017-06-02,872.0,Conference
@@ -366,7 +366,7 @@
 364,Scott,Webster, FL,Orlando,2018-04-22,2018-05-06,3755.0,Training
 365,Sean,Renauer, FL,Orlando,2018-10-06,2018-10-10,44.25,Conference
 366,Sean,Chapman, MD,Ocean City,2018-11-05,2018-11-08,595.42,Conference
-367,Sean,D'Costa, NV,Las Vegas,2018-10-20,2018-10-24,3963.65,Conference
+367,Sean,DCosta, NV,Las Vegas,2018-10-20,2018-10-24,3963.65,Conference
 368,Sean,Gagen, NV,Las Vegas,2016-05-11,2016-05-14,1854.65,Conference
 369,Sean,Reilly, MD,Ocean City,2017-04-09,2017-04-12,563.03,Conference
 370,Sean,Renauer, NV,Las Vegas,2017-06-20,2017-06-23,1479.36,Training
@@ -404,7 +404,7 @@
 402,Timothy,Ray, PA,Annville,2017-08-29,2017-08-31,30.34,Other
 403,Todd,Harper, FL,Orlando,2016-10-15,2016-10-21,5650.16,Conference
 404,Tom,Henry, FL,Orlando,2018-03-04,2018-03-10,4626.29,Conference
-405,Tony,@Galladora, NC,Charlotte,2017-05-22,2017-05-26,972.33,Other
+405,Tony,Galladora, NC,Charlotte,2017-05-22,2017-05-26,972.33,Other
 406,Trent,Bishop, CO,Westminster,2016-09-18,2016-09-21,2849.13,Conference
 407,Troy,Tippett, FL,Orlando,2018-08-05,2018-08-09,4616.69,Training
 408,Tyler,Wellen, MD,Ocean City,2016-10-24,2016-10-26,111.5,Conference
@@ -412,7 +412,7 @@
 410,Victoria,Lewis, TX,Austin,2018-05-16,2018-05-18,2355.52,Conference
 411,Vincent,Romano, MD,Ocean City,2016-10-24,2016-10-26,82.5,Conference
 412,Wins,Hinde, MD,Ocean City,2016-06-17,2016-06-22,352.0,Conference
-413,Warren,Jensen!, MD,Ocean City,2017-11-06,2017-11-09,502.45,Conference
+413,Warren,Jensen, MD,Ocean City,2017-11-06,2017-11-09,502.45,Conference
 414,Warp,Jensen, MD,Ocean City,2019-03-25,2019-03-26,78.0,Conference
 415,Whitney,Kujawa, MD,Ocean City,2017-11-06,2017-11-09,567.0,Conference
 416,William,Kinna, NC,Charlotte,2017-05-21,2017-05-26,2163.67,Conference
